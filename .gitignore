@@ -46,6 +46,6 @@ ENV/
 *.log
 
 # Project specific
-screenshots/
+/screenshots/
 results/
 .claude/
